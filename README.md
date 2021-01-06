@@ -5,7 +5,7 @@
 
 
 
-This is a quiz app which tests your knowledge on the famous tv show # Game of Thrones.
+This is a quiz app which tests your knowledge on the famous tv show Game of Thrones.
 With the classical theme this app will take you to the Westeros.
 
 # Technical 
