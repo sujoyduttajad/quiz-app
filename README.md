@@ -1,4 +1,4 @@
-# Game of Thrones # Quiz-app
+# Game of Thrones Quiz-app
 
 
 <img src="./game-of-thrones-quiz.png" alt="the screenshot of the app large screen"/>
